@@ -60,5 +60,5 @@
 // WIFI ACCESS POINT
 // ============================================================
 
-#define AP_SSID              "T-A7670_TEST"
-#define AP_PASSWORD          "12345678"
+#define AP_SSID              "EFS_LTE_Tracker"
+#define AP_PASSWORD          "warg-efs-2026"
